@@ -1,0 +1,29 @@
+
+
+<view class="t1">
+<text class="t1">{{t1}}</text>
+</view>
+
+<view>
+<button bindtap="b0" class="b0">查询衣物情况</button>
+</view>
+
+<view>
+<button bindtap="b1" class="b1" >下降</button>
+</view>
+
+<view>
+<button bindtap="b2" class="b2">上升</button>
+</view>
+
+<view>
+<button bindtap="b3" class="b3" >停止</button>
+</view>
+
+<view >
+<button bindtap="b4" class="b4" size="default">天气查询与穿衣推荐</button>
+</view>
+
+<view>
+<image class="background" src="/images/background001.png"></image>
+</view>

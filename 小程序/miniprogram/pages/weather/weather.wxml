@@ -1,0 +1,23 @@
+<view>
+<input bindinput="input" class="input"></input>
+</view>
+
+<view>
+<button bindtap="search" class="search">查看</button>
+</view>
+
+<view class="t1">
+<text>{{sentence1}}{{today}}{{a}}{{temperature1}}{{a}}{{cloth1}}</text>
+</view>
+
+<view class="t2">
+<text>{{sentence2}}{{tomorrow}}{{a}}{{temperature2}}{{a}}{{cloth2}}</text>
+</view>
+
+<view class="returnBack">
+<button bindtap="returnBack" class="returnBack">返回</button>
+</view>
+
+<view>
+<image class="background" src="/images/background002.png"></image>
+</view>

@@ -1,0 +1,37 @@
+.search{
+  margin-top: 45px;
+  background-color: transparent
+}
+
+.returnBack{
+  width: 100%;
+  background-color: transparent;
+  position: fixed;
+  bottom: 0;
+  margin-left: 95px
+}
+
+.input{
+  margin-top: 45px;
+  margin-left: 4px
+}
+
+.t1{
+  margin-top:100px;
+  margin-left:4px
+}
+
+.t2{
+  margin-left: 4px
+}
+
+.background{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background:url('https://dfsn.china-tengyun.com/group1/M00/01/60/cH5Z71tsCSyAbaJdAACoXp7ghWs919.jpg') no-repeat #000;
+  background-size:cover;
+  z-index:-1;
+}
