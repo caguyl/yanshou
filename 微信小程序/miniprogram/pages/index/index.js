@@ -13,7 +13,7 @@ Page({
 
   b1:function(){
     wx.request({
-      url: 'http://api.heclouds.com/devices/578080224/datapoints',
+      url: 'https://api.heclouds.com/devices/578080224/datapoints',
       method:'POST',
       header:{
         "api-key": "j3YuAfvJclkAwAi4fWWJ0ZYACDM=",
@@ -32,7 +32,7 @@ Page({
 
   b2:function(){
     wx.request({
-      url: 'http://api.heclouds.com/devices/578080224/datapoints',
+      url: 'https://api.heclouds.com/devices/578080224/datapoints',
       method: 'POST',
       header: {
         "api-key": "j3YuAfvJclkAwAi4fWWJ0ZYACDM=",
@@ -51,7 +51,7 @@ Page({
 
   b3:function(){
     wx.request({
-      url: 'http://api.heclouds.com/devices/578080224/datapoints',
+      url: 'https://api.heclouds.com/devices/578080224/datapoints',
       method: 'POST',
       header: {
         "api-key": "j3YuAfvJclkAwAi4fWWJ0ZYACDM=",

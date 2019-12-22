@@ -20,9 +20,9 @@
 <button bindtap="b3" class="b3" >停止</button>
 </view>
 
-<view >
-<button bindtap="b4" class="b4" size="default">天气查询与穿衣推荐</button>
-</view>
+
+<button bindtap="b4" class="b4" style='position:fixed;width:100%;bottom:0' >天气查询与穿衣推荐</button>
+
 
 <view>
 <image class="background" src="/images/background001.png"></image>

@@ -8,12 +8,11 @@
   background-color: transparent;
   position: fixed;
   bottom: 0;
-  margin-left: 95px
 }
 
 .input{
-  margin-top: 45px;
-  margin-left: 4px
+  margin-top: 10px;
+  border: 1px solid black
 }
 
 .t1{

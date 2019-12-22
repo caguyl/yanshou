@@ -1,4 +1,8 @@
 <view>
+<text>请输入您所在的地区：</text>
+</view>
+
+<view>
 <input bindinput="input" class="input"></input>
 </view>
 
@@ -14,8 +18,8 @@
 <text>{{sentence2}}{{tomorrow}}{{a}}{{temperature2}}{{a}}{{cloth2}}</text>
 </view>
 
-<view class="returnBack">
-<button bindtap="returnBack" class="returnBack">返回</button>
+<view class="rb">
+<button bindtap="returnBack" class="returnBack" style='position:fixed;width:100%;bottom:0'>返回</button>
 </view>
 
 <view>
